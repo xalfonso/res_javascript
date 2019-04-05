@@ -1,0 +1,12 @@
+{
+  "name": "js-caos",
+  "version": "1.0.0",
+  "description": "Ejemplo de Proyecto con TypeScript para subir a un repo como modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Alfonso Sanchez",
+  "license": "ISC"
+}
