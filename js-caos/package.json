@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Eduardo Alfonso Sanchez",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.4.2"
+  }
 }
