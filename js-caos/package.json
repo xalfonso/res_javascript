@@ -1,5 +1,5 @@
 {
-  "name": "js-caos",
+  "name": "@js-research/js-caos",
   "version": "1.0.0",
   "description": "Ejemplo de Proyecto con TypeScript para subir a un repo como modulo",
   "main": "index.js",
