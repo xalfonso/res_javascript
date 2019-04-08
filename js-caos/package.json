@@ -4,11 +4,15 @@
   "description": "Ejemplo de Proyecto con TypeScript para subir a un repo como modulo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
   },
-  "keywords": [],
+  "keywords": ["init-project","library-project", "type-script"],
   "author": "Eduardo Alfonso Sanchez",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "http://10.190.6.59:8181/repository/npm-internal/"
+  },
   "devDependencies": {
     "typescript": "^3.4.2"
   }
